@@ -5,10 +5,10 @@ repo: futurology-status # The name of this repository
 sites:
   - name: Website
     url: https://futurology.today
-    icon: https://www.citypng.com/public/uploads/preview/transparent-hd-internet-globe-blue-icon-701751695035228s3pzw5luvt.png
+    icon: https://static-00.iconduck.com/assets.00/globe-icon-512x512-jrx2ilx3.png
   - name: API
     url: https://futurology.today/api/v3/site
-    icon: https://cdn0.iconfinder.com/data/icons/leto-file-formats/64/json_javascript_file_format-1024.png
+    icon: https://static-00.iconduck.com/assets.00/code-json-icon-512x385-elrsrnwq.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
