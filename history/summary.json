@@ -4,19 +4,19 @@
     "url": "https://futurology.today",
     "icon": "https://static-00.iconduck.com/assets.00/globe-icon-512x512-jrx2ilx3.png",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2768,
-    "timeDay": 8265,
-    "timeWeek": 2768,
-    "timeMonth": 2768,
-    "timeYear": 2768,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 2577,
+    "timeDay": 5796,
+    "timeWeek": 2577,
+    "timeMonth": 2577,
+    "timeYear": 2577,
     "dailyMinutesDown": {
-      "2024-11-10": 0
+      "2024-11-10": 7
     }
   },
   {
