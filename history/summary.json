@@ -5,19 +5,17 @@
     "icon": "https://static-00.iconduck.com/assets.00/globe-icon-512x512-jrx2ilx3.png",
     "slug": "website",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 2577,
-    "timeDay": 5796,
-    "timeWeek": 2577,
-    "timeMonth": 2577,
-    "timeYear": 2577,
-    "dailyMinutesDown": {
-      "2024-11-10": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2416,
+    "timeDay": 5816,
+    "timeWeek": 2416,
+    "timeMonth": 2416,
+    "timeYear": 2416,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 146,
-    "timeDay": 112,
-    "timeWeek": 146,
-    "timeMonth": 146,
-    "timeYear": 146,
+    "time": 147,
+    "timeDay": 157,
+    "timeWeek": 147,
+    "timeMonth": 147,
+    "timeYear": 147,
     "dailyMinutesDown": {}
   }
 ]
