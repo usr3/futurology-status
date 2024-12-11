@@ -4,35 +4,39 @@
     "url": "https://futurology.today",
     "icon": "https://static-00.iconduck.com/assets.00/globe-icon-512x512-jrx2ilx3.png",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1590,
-    "timeDay": 794,
-    "timeWeek": 1353,
-    "timeMonth": 1287,
-    "timeYear": 1590,
-    "dailyMinutesDown": {}
+    "time": 1566,
+    "timeDay": 689,
+    "timeWeek": 1257,
+    "timeMonth": 1265,
+    "timeYear": 1566,
+    "dailyMinutesDown": {
+      "2024-12-11": 0
+    }
   },
   {
     "name": "API",
     "url": "https://futurology.today/api/v3/site",
     "icon": "https://static-00.iconduck.com/assets.00/code-json-icon-512x385-elrsrnwq.png",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 154,
-    "timeDay": 196,
-    "timeWeek": 193,
-    "timeMonth": 155,
-    "timeYear": 154,
-    "dailyMinutesDown": {}
+    "time": 150,
+    "timeDay": 111,
+    "timeWeek": 172,
+    "timeMonth": 151,
+    "timeYear": 150,
+    "dailyMinutesDown": {
+      "2024-12-11": 0
+    }
   }
 ]
