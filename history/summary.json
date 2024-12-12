@@ -5,19 +5,17 @@
     "icon": "https://static-00.iconduck.com/assets.00/globe-icon-512x512-jrx2ilx3.png",
     "slug": "website",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1555,
-    "timeDay": 812,
-    "timeWeek": 1235,
-    "timeMonth": 1258,
-    "timeYear": 1555,
-    "dailyMinutesDown": {
-      "2024-12-11": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1536,
+    "timeDay": 799,
+    "timeWeek": 1153,
+    "timeMonth": 1257,
+    "timeYear": 1536,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -25,18 +23,16 @@
     "icon": "https://static-00.iconduck.com/assets.00/code-json-icon-512x385-elrsrnwq.png",
     "slug": "api",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 114,
-    "timeWeek": 166,
-    "timeMonth": 150,
+    "timeDay": 102,
+    "timeWeek": 142,
+    "timeMonth": 152,
     "timeYear": 150,
-    "dailyMinutesDown": {
-      "2024-12-11": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
