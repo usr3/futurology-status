@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
     "time": 1252,
     "timeDay": 647,
@@ -16,7 +16,6 @@
     "timeMonth": 912,
     "timeYear": 1252,
     "dailyMinutesDown": {
-      "2025-01-09": 8,
       "2025-01-08": 17,
       "2024-12-14": 16
     }
@@ -27,18 +26,17 @@
     "icon": "https://static-00.iconduck.com/assets.00/code-json-icon-512x385-elrsrnwq.png",
     "slug": "api",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 137,
     "timeDay": 169,
     "timeWeek": 141,
     "timeMonth": 123,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2025-01-09": 8,
       "2024-12-14": 16
     }
   }
