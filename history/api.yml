@@ -1,7 +1,7 @@
 url: https://futurology.today/api/v3/site
-status: up
-code: 200
-responseTime: 119
-lastUpdated: 2025-01-10T23:09:33.875Z
+status: down
+code: 530
+responseTime: 10
+lastUpdated: 2025-01-11T13:59:48.578Z
 startTime: 2024-11-08T08:07:17.640Z
 generator: Upptime <https://github.com/upptime/upptime>
